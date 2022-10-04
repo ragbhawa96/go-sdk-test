@@ -1,0 +1,10 @@
+---
+    ActiveMQ:
+      address: 'localhost'
+      port: '61613'
+      user: 'admin'
+      pass: 'admin'
+      name: 'default'
+      channelone: 'TOPIC_IN'      
+      channeltwo: 'TOPIC_OUT'
+      domainkey : '21552838'
